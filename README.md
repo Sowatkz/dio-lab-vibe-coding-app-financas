@@ -76,10 +76,6 @@ Gerar um plano de MVP contendo:
 Usar tom educativo, linguagem acessível e responder sempre em português.
 ```
 
-
-Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
-No README do seu repositório, inclua:
-
 - Seu **prompt final** (PRD);  
 - Prints ou pequenos vídeos das interações com a IA;  
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
