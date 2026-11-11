@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Este projeto foi criado como um experimento de **Vibe Coding**, utilizando um PRD elaborado com auxílio do Copilot Web e posteriormente implementado no Lovable.
+Este projeto foi desenvolvido como um Desafio de Projeto da DIO de **Vibe Coding** utilizando o Lovable e o Copilot Web. A proposta é criar um aplicativo de organização financeira pessoal baseado em interações em linguagem natural.
 
 ---
 
