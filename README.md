@@ -2,7 +2,7 @@
 
 PRD no Copilot Web:
 ```
-# Contexto
+## Contexto
 
 Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.
 
