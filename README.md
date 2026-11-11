@@ -1,7 +1,16 @@
 # 💸 App de Organização de Finanças Pessoais com Vibe Coding
 
-PRD no Copilot Web:
-```
+## Sobre o Projeto
+
+Este projeto foi criado como um experimento de **Vibe Coding**, utilizando um PRD elaborado com auxílio do Copilot Web e posteriormente implementado no Lovable.
+
+---
+
+## 📋 PRD Utilizado
+
+**PRD criado no Copilot Web**
+
+```text
 ## Contexto
 
 Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.
@@ -76,10 +85,150 @@ Gerar um plano de MVP contendo:
 Usar tom educativo, linguagem acessível e responder sempre em português.
 ```
 
-- Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+---
+
+## 🚀 Resultado Final
+
+### Acesse o protótipo funcional
+
+🔗 https://prumo-financeiro-ia.lovable.app
+
+### Preview
+
+![Prumo Financeiro](https://github.com/user-attachments/assets/aec6f522-492f-4095-a354-1a73c0b03e63)
+
+---
+
+# Funcionalidades Implementadas
+
+## 1. Assistente Financeiro Conversacional
+
+A funcionalidade principal do produto é a aba **Conversa**, onde o usuário interage em linguagem natural com o Agente Financeiro.
+
+### Exemplos de uso
+
+- "Gastei R$ 45 no almoço."
+- "Recebi R$ 5.000 de salário."
+- "Quanto gastei este mês?"
+- "Como posso economizar mais?"
+
+A IA interpreta as mensagens, registra as transações e responde dúvidas financeiras de forma simples e educativa.
+
+---
+
+## 2. Painel Financeiro Inteligente
+
+A aba **Painel** oferece uma visão rápida da saúde financeira do usuário.
+
+### Principais indicadores
+
+- Saldo do mês
+- Total de entradas
+- Total de saídas
+- Distribuição dos gastos por categoria
+- Estatísticas de hábitos financeiros
+- Taxa de poupança
+
+O objetivo é permitir que o usuário compreenda sua situação financeira em poucos segundos.
+
+---
+
+## 3. Classificação Automática de Gastos
+
+As despesas e receitas são categorizadas automaticamente pela IA.
+
+### Exemplos
+
+| Transação | Categoria |
+|-----------|------------|
+| Uber | Transporte |
+| Mercado | Alimentação |
+| Salário | Receita |
+| Academia | Saúde |
+
+Isso elimina a necessidade de preenchimento manual de categorias.
+
+---
+
+## 4. Análise de Hábitos Financeiros
+
+O sistema acompanha o comportamento financeiro do usuário e gera métricas como:
+
+- Dias com registro
+- Taxa de poupança
+- Evolução dos gastos
+- Consistência do acompanhamento financeiro
+
+Esses indicadores ajudam na criação de hábitos sustentáveis.
+
+---
+
+## 5. Insights e Recomendações Personalizadas
+
+O produto possui o **Prumo**, um agente financeiro que analisa os dados registrados e gera recomendações automáticas.
+
+### Exemplo de insight
+
+> "Transporte levou 59% dos seus gastos. Definir um limite semanal para essa categoria costuma ajudar bastante."
+
+Esses insights têm foco educacional e ajudam o usuário a identificar oportunidades de economia.
+
+---
+
+## 6. Gestão de Metas Financeiras
+
+A aba **Metas** permite criar e acompanhar objetivos financeiros.
+
+### Exemplos
+
+- Reserva de emergência
+- Viagem
+- Compra de veículo
+- Quitar dívidas
+
+Para cada meta, o sistema acompanha a evolução e mostra o progresso em direção ao valor desejado.
+
+---
+
+## 7. Planejamento Financeiro
+
+A aba **Plano** funciona como uma camada de planejamento, ajudando o usuário a transformar objetivos em ações concretas.
+
+### Possíveis recursos
+
+- Definição de orçamento mensal
+- Limites por categoria
+- Sugestões de economia
+- Planejamento de metas futuras
+
+---
+
+# 💡 Proposta de Valor
+
+> Prumo é um copiloto financeiro pessoal que substitui planilhas e controles complexos por conversas simples, análises automáticas e orientações personalizadas para ajudar o usuário a tomar melhores decisões financeiras.
+
+### Em uma frase
+
+> Organize seu dinheiro conversando com uma IA que entende seus hábitos, acompanha suas metas e ajuda você a economizar de forma simples.
+
+---
+
+# ✅ O que funcionou bem?
+
+O refinamento do PRD previamente feito no Copilot ajudou muito, pois os créditos do Lovable acabaram na primeira interação.
+
+Mesmo com poucas iterações, foi possível obter um resultado bastante próximo da ideia original.
+
+---
+
+# ⚠️ O que não funcionou como o esperado?
+
+Esperava poder interagir mais vezes gratuitamente com o Lovable, mas as interações feitas já foram de grande valia para aprender mais sobre Vibe Coding.
+
+---
+
+# 🎓 O que aprendi sobre conversar com IAs?
+
+Aprendi que é basicamente igual a conversar com uma pessoa: quanto mais detalhes e clareza você fornece, melhor é a interação.
+
+Um bom resultado depende muito da qualidade do contexto, dos requisitos e das instruções fornecidas à IA.
